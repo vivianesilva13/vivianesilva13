@@ -2,7 +2,7 @@
 - 👋 Olá meu nome é **Viviane**
 - 👀 Eu estou aprendendo atualmente a programar jogos no Scratch e em JavaScript
 - 🌱 tenho curiosidade em aprender páginas da web.
-- 📫 Vocês podem entrar em contato comigo através do email viviane.rocha05@
+- 📫 Vocês podem entrar em contato comigo através do email viviane.rocha05@escola.pr.gov.br
 
 > Eu estou fazendo o curso de Primeiros Passos no GitHub
 
